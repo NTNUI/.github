@@ -14,9 +14,9 @@ Have a look at the issue boards in each of the repositories, or contact us at sp
 
 
 ## 💎 Our gems at the moment
-### membership-system (currently private)
-### opptak
-### ntnui-tools
+### membership-system (currently private), at [medlem.ntnui.no](https://medlem.ntnui.no)
+### opptak, at [opptak.ntnui.no](https://opptak.ntnui.no)
+### ntnui-tools, in an npm registry near you
 
 
 See you around! 👋
