@@ -1,6 +1,6 @@
 ## Hello from Norway's largest sports association 👋
 .. and welcome to our GitHub page! 🥳
-We are proud to be our country's largest sports association with more than 60 sports groups and 14 000 members.
+We are proud to be our country's largest sports association with more than 60 sports groups and 20 000 members.
 Being such a big organization sure requires some technical stuff, so that's why we're here :raising_hand_man: :raising_hand_woman:
 Our mission is not only to create solutions that we find useful ourselves, but also solutions that can make sports better in general.
 
